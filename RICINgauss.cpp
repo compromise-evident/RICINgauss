@@ -205,7 +205,12 @@ int main()
 		
 		//Writes one '0' to file immediately after data to signify end-of-stream.
 		//Look to the schematics and sample detailed in option 2 ("Decode recording".)
-		out_stream.put(-126); for(int a = 0; a < 100; a++) {out_stream.put(127);} //Spike, VERY LONG WAIT = end.
+		if(standard_aux_cord == true)
+		{	out_stream.put(-126); for(int a = 0; a < 100; a++) {out_stream.put(127);} //Spike, VERY LONG WAIT = end.
+		}
+		else
+		{	for(int a = 0; a < 4; a++) {out_stream.put(-80);} for(int a = 0; a < 100; a++) {out_stream.put(127);} //Spike, long  wait = 0
+		}
 		
 		//Writes the ending-silence to the file.
 		for(int a = 0; a < 10000; a++) {out_stream.put(127);}
