@@ -15,8 +15,20 @@ to expose the copper under that epoxy.  Find a ferrite torus core (6mm diameter,
 tiny donut and connect those  3.5mm mono cables to each winding.  Now you have a
 simple transformer. Audio-out on one computer will induce a current in the other
 coil which is the microphone-in on the other computer. No sound insulation here.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* WARNING:  always assume the proprietary software on your proprietary design is
+  broadcasting your computer details  as it assumes that something is listening,
+  and perhaps sending back instructions undermining your  privacy, security, and
+  freedom from classification--such as the list  "compromised dumbass citizens."
+  Now that you know  security is impossible through any attempt to assemble your
+  proprietary things in some clever way, you are  encouraged  only to send files
+  one way from online to offline machines only! Online machine pass instructions
+  when you're not looking--only to never hear back--otherwise your  offline keys
+  may be transmitted as the  offline machine might attempt to encode data on top
+  of what's already being sent such as the frequencies and timing between spikes
+  and silent moments of your mp3 files. Anything  proprietary  is the only risk.
 * CAUTION: you MIGHT need to turn down the volume of the sending machine to 75%.
-* USE THE GIVEN HASH  of each encode and decode for matching, and adjust volume.
+  USE THE GIVEN HASH  of each encode and decode for matching, and adjust volume.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How to run the program  -  Software package repositories for GNU+Linux operating
 systems have all the tools you can imagine. Open a terminal and use this command
