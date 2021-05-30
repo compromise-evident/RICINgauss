@@ -16,6 +16,7 @@ tiny donut and connect those  3.5mm mono cables to each winding.  Now you have a
 simple transformer. Audio-out on one computer will induce a current in the other
 coil which is the microphone-in on the other computer. No sound insulation here.
 Automate RICIN systems with a GUI human activity emulator:   apt install actiona
+Compress original files with   .tar.bz2  for maimum reduction in transfer times.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * WARNING:  always assume the proprietary software on your proprietary design is
   broadcasting your computer details  as it assumes that something is listening,
