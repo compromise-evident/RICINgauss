@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/compromise-evident/RICINgauss/blob/main/Materials.jpg">
+  <img src="https://github.com/compromise-evident/RICINgauss/blob/main/Other/Materials.jpg">
 </p>
 
 <p align="center">
