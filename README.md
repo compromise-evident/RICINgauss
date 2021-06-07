@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/compromise-evident/RICINgauss/blob/main/Terminal.png">
+  <img src="https://github.com/compromise-evident/RICINgauss/blob/main/Other/Terminal.png">
 </p>
