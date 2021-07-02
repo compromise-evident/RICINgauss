@@ -4,7 +4,7 @@ Transfer any file through magnetic induction between online and secure offline m
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/7b227f572cfeb290)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/88285c614cd2efdb)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/RICINgauss/blob/main/Other/Close-up.jpg">
